@@ -1,6 +1,6 @@
 ### Webscraping in Python
 
-This Email-Scraping with Python script allows to collect an rrhh email adresses list from python.org website.
+This Email-Scraping Python tool allows to collect an email adress list from python.org website.
 
 ## Requirements
 
